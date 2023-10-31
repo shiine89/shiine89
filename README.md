@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shiine89
+- 👋 Hi, I’m @Abdillahi Abdirashid Ali
 - 👀 I’m interested in working with U
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on you
