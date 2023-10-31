@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdillahi Abdirashid Ali
+- 👋  𝙃𝙞, 𝙄'𝙢 @ 𝘼𝙗𝙙𝙞𝙡𝙡𝙖𝙝𝙞 𝘼𝙗𝙙𝙞𝙧𝙖𝙨𝙝𝙞𝙙 𝘼𝙡𝙞
 - 👀 I’m interested in working with U
 - 🌱 I’m currently learning fullstack
 - 💞️ I’m looking to collaborate on you
