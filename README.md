@@ -1,49 +1,45 @@
+# 👋 Hi, I'm Eng. Shiine
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Eng.%20Shiine&fontSize=60&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20UI/UX%20Designer%20%7C%20Data%20Science%20Enthusiast&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Eng.%20Shiine&fontSize=65&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20•%20Product%20Builder%20•%20UI%2FUX%20Designer&descAlignY=62"/>
 
-# 👨‍💻 Eng. Shiine
-
-### Building Scalable Software • Designing Exceptional Experiences • Exploring AI & Data
-
-<p>
+### 🚀 Building Digital Products That Create Real Value
 
 <img src="https://komarev.com/ghpvc/?username=shiine89&style=for-the-badge" />
-
 <img src="https://img.shields.io/github/followers/shiine89?style=for-the-badge" />
-
 <img src="https://img.shields.io/github/stars/shiine89?style=for-the-badge" />
-
-</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 💫 Who Am I?
 
 ```yaml
-Name: Eng. Shiine
+name: Eng. Shiine
 
-Role:
-  - Full-Stack Developer
+roles:
+  - Full-Stack Software Engineer
+  - Mobile App Developer
   - UI/UX Designer
-  - Data Science Enthusiast
+  - Product Builder
+  - AI & Data Science Enthusiast
 
-Focus:
+focus:
+  - SaaS Products
   - Web Applications
   - Mobile Applications
-  - Software Architecture
   - Artificial Intelligence
-  - Data Science
+  - Product Design
 
-Mission:
-  Build meaningful products that solve real-world problems.
+mission:
+  Build technology that solves meaningful problems.
 ```
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
 ### Frontend
 
@@ -54,13 +50,7 @@ Mission:
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
 ### Mobile
@@ -69,15 +59,21 @@ Mission:
 <img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
 
-### Tools
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
+</p>
+
+### Design & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=figma,git,github,vscode,linux,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -89,7 +85,7 @@ Mission:
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 
@@ -99,7 +95,7 @@ Mission:
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <p align="center">
 
@@ -109,17 +105,17 @@ Mission:
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shiine89&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shiine89&theme=tokyonight&no-frame=true&column=7"/>
 
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -129,78 +125,97 @@ Mission:
 
 ---
 
-## 💼 Development Journey
+# 🧠 Expertise
 
-I have worked on a wide range of software projects across different industries and domains, including:
-
-* Full-Stack Web Applications
-* Mobile Applications
-* UI/UX Design Systems
-* Business Management Platforms
-* Data Analysis Solutions
-* SaaS Products
-* Freelance & Personal Projects
-
-Many of these projects remain private while under active development and refinement.
+* Full-Stack Web Development
+* Mobile Application Development
+* UI/UX Design
+* REST API Development
+* Software Architecture
+* Product Strategy
+* Data Science Fundamentals
+* AI-Powered Applications
 
 ---
 
-## 🌱 Current Learning Focus
+# 💼 Professional Journey
+
+I have worked on multiple projects across different industries and domains including:
+
+* Business Management Systems
+* SaaS Platforms
+* Mobile Applications
+* Property Technology Solutions
+* E-Commerce Systems
+* Data Analytics Projects
+* Freelance Solutions
+
+Most projects remain private during development and testing phases.
+
+---
+
+# 🎯 2026 Goals
 
 ```text
-Full-Stack Engineering   ████████████████████ 100%
-UI/UX Design            ██████████████████░░ 90%
-Data Science            ███████████████░░░░░ 75%
-Machine Learning        ████████████░░░░░░░░ 60%
-Cloud & DevOps          █████████░░░░░░░░░░░ 45%
+Build Production SaaS Products     ████████████████████
+Master System Design              ██████████████████░
+Advanced Flutter Development      █████████████████░░
+AI & Machine Learning             ███████████████░░░░
+Cloud & DevOps                    ████████████░░░░░░
 ```
 
 ---
 
-## ⏱ Wakatime Statistics
+# ⌚ WakaTime Statistics
 
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript    12 hrs 30 mins   ███████████░░░░░░░
-TypeScript     9 hrs 15 mins   ████████░░░░░░░░░░
-Python         7 hrs 10 mins   ██████░░░░░░░░░░░░
-HTML/CSS       5 hrs 20 mins   ████░░░░░░░░░░░░░░
-Other          2 hrs 45 mins   ██░░░░░░░░░░░░░░░░
+Flutter       12 hrs 15 mins  ████████████░░░░░░
+React          9 hrs 22 mins  █████████░░░░░░░░░
+Python         7 hrs 41 mins  ███████░░░░░░░░░░░
+JavaScript     5 hrs 14 mins  █████░░░░░░░░░░░░░
+Other          2 hrs 11 mins  ██░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
 
 ---
 
-## 🎖 Holopin Badges
-
-[![An image of @shiine's Holopin badges](https://holopin.me/shiine)](https://holopin.io/@shiine)
-
----
-
-## 🤝 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:apinaashs@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/eng_ashiine/?__pwa=1">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://wa.me/YOUR_WHATSAPP_NUMBER">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/the_ashiin3_">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
+# 💭 Philosophy
+
+> Great software is created when engineering, design, and business thinking work together.
+
+---
+
 <div align="center">
 
-### 💡 Learn • Build • Improve • Repeat
-
-> "Technology creates opportunities. Execution creates impact."
+### Learn • Build • Scale • Repeat
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
