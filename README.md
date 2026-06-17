@@ -1,73 +1,84 @@
-# 👋 Hi, I'm Eng. Shiine
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Eng.%20Shiine&fontSize=65&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20•%20Product%20Builder%20•%20UI%2FUX%20Designer&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Eng.%20Shiine&fontSize=60&fontAlignY=40&desc=Full-Stack%20Software%20Engineer%20•%20Product%20Builder%20•%20UI%2FUX%20Designer&descAlignY=60"/>
 
-### 🚀 Building Digital Products That Create Real Value
+# 👨‍💻 Eng. Shiine
 
-<img src="https://komarev.com/ghpvc/?username=shiine89&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/shiine89?style=for-the-badge" />
-<img src="https://img.shields.io/github/stars/shiine89?style=for-the-badge" />
+### Full-Stack Software Engineer • Flutter Developer • React Developer • Product Builder
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=shiine89&style=for-the-badge&label=PROFILE+VIEWS"/>
+
+<img src="https://img.shields.io/github/followers/shiine89?style=for-the-badge&label=FOLLOWERS"/>
+
+<img src="https://img.shields.io/github/repos/shiine89?style=for-the-badge&label=REPOSITORIES"/>
+
+</p>
 
 </div>
 
 ---
 
-## 💫 Who Am I?
+# 🚀 About Me
 
 ```yaml
 name: Eng. Shiine
 
-roles:
+role:
   - Full-Stack Software Engineer
   - Mobile App Developer
   - UI/UX Designer
   - Product Builder
-  - AI & Data Science Enthusiast
 
-focus:
-  - SaaS Products
-  - Web Applications
-  - Mobile Applications
+specialization:
+  - SaaS Applications
+  - Web Development
+  - Mobile Development
   - Artificial Intelligence
+  - Data Science
+
+current_focus:
+  - Scalable Software Systems
   - Product Design
+  - System Architecture
+  - AI-Powered Solutions
 
 mission:
-  Build technology that solves meaningful problems.
+  Build products that solve real-world problems and create measurable value.
 ```
 
 ---
 
-# ⚡ Tech Stack
+# ⚡ Technology Stack
 
 ### Frontend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### Backend
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### Mobile
+### Mobile Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=flutter,react" />
 </p>
 
-### Database
+### Databases
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase" />
 </p>
 
-### Design & Tools
+### Design & Productivity
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,linux,postman" />
 </p>
 
@@ -75,93 +86,108 @@ mission:
 
 # 📊 GitHub Statistics
 
-<p align="center">
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiine89&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiine89&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 Contribution Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiine89&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 📈 Activity Graph
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shiine89&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=shiine89&theme=tokyonight&no-frame=true&column=7"/>
 
-</p>
+</div>
 
 ---
 
 # 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
 
 <img src="https://raw.githubusercontent.com/shiine89/shiine89/output/github-contribution-grid-snake-dark.svg"/>
 
-</p>
+</div>
 
 ---
 
-# 🧠 Expertise
+# 📈 GitHub Overview
 
-* Full-Stack Web Development
-* Mobile Application Development
-* UI/UX Design
-* REST API Development
-* Software Architecture
-* Product Strategy
-* Data Science Fundamentals
-* AI-Powered Applications
+```text
+⭐ Repository Stars      → Auto Updated
+👥 Followers            → Auto Updated
+📦 Repositories         → Auto Updated
+👁 Profile Views        → Live Counter
+🔥 Contribution Streak  → Live
+🏆 Achievements         → Live
+```
 
 ---
 
-# 💼 Professional Journey
+# 💼 Experience
 
-I have worked on multiple projects across different industries and domains including:
+Throughout my development journey, I have worked on projects across multiple domains including:
 
-* Business Management Systems
-* SaaS Platforms
-* Mobile Applications
-* Property Technology Solutions
-* E-Commerce Systems
-* Data Analytics Projects
-* Freelance Solutions
+• SaaS Platforms  
+• Business Management Systems  
+• Mobile Applications  
+• Property Technology Solutions  
+• E-Commerce Platforms  
+• Data Analytics Projects  
+• AI-Powered Applications  
+• Freelance & Personal Projects  
 
-Most projects remain private during development and testing phases.
+Most projects remain private during active development and refinement.
+
+---
+
+# 🧠 Areas of Expertise
+
+- Full-Stack Web Development
+- Mobile App Development
+- REST API Development
+- UI/UX Design
+- Software Architecture
+- Product Development
+- Database Design
+- Data Science Fundamentals
+- AI Integration
 
 ---
 
 # 🎯 2026 Goals
 
 ```text
-Build Production SaaS Products     ████████████████████
-Master System Design              ██████████████████░
-Advanced Flutter Development      █████████████████░░
-AI & Machine Learning             ███████████████░░░░
-Cloud & DevOps                    ████████████░░░░░░
+Build Production SaaS Products     ████████████████████ 100%
+Master System Design              ██████████████████░░ 90%
+Advanced Flutter Development      █████████████████░░░ 85%
+AI & Machine Learning             ███████████████░░░░░ 75%
+Cloud & DevOps                    ████████████░░░░░░░░ 60%
 ```
 
 ---
@@ -169,22 +195,13 @@ Cloud & DevOps                    ████████████░░░�
 # ⌚ WakaTime Statistics
 
 <!--START_SECTION:waka-->
-
-```text
-Flutter       12 hrs 15 mins  ████████████░░░░░░
-React          9 hrs 22 mins  █████████░░░░░░░░░
-Python         7 hrs 41 mins  ███████░░░░░░░░░░░
-JavaScript     5 hrs 14 mins  █████░░░░░░░░░░░░░
-Other          2 hrs 11 mins  ██░░░░░░░░░░░░░░░░
-```
-
 <!--END_SECTION:waka-->
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="mailto:apinaashs@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -202,20 +219,20 @@ Other          2 hrs 11 mins  ██░░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 # 💭 Philosophy
 
-> Great software is created when engineering, design, and business thinking work together.
+> Great products emerge when engineering, design, and business thinking work together.
 
 ---
 
 <div align="center">
 
-### Learn • Build • Scale • Repeat
+## 🚀 Learn • Build • Scale • Repeat
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
