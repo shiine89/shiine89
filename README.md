@@ -87,7 +87,6 @@ Python analysis, visualisation and AI features integrated into real products.
 <table>
 <tr>
 <td><img src="./assets/card-hoyihel.svg" width="100%" alt="HoyiHel"/></td>
-<td><img src="./assets/card-barberpro.svg" width="100%" alt="BarberPro"/></td>
 </tr>
 <tr>
 <td><img src="./assets/card-fhglow.svg" width="100%" alt="FH-Glow"/></td>
