@@ -25,7 +25,6 @@
 
 <br/>
 
-## 🧬 About
 
 <div align="center"><img src="./assets/h-about.svg" width="100%" alt="About"/></div>
 
