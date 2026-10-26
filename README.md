@@ -25,7 +25,7 @@
 
 <br/>
 
-## 🧬 About
+
 
 <div align="center"><img src="./assets/h-about.svg" width="100%" alt="About"/></div>
 
@@ -58,7 +58,7 @@ Python analysis, visualisation and AI features integrated into real products.
 
 <br/>
 
-## ⚡ Tech Stack
+
 
 <div align="center"><img src="./assets/h-stack.svg" width="100%" alt="Tech Stack"/></div>
 
@@ -80,7 +80,7 @@ Python analysis, visualisation and AI features integrated into real products.
 
 <br/>
 
-## 🚀 Featured Work
+
 
 <div align="center"><img src="./assets/h-work.svg" width="100%" alt="Featured Work"/></div>
 
@@ -97,7 +97,7 @@ Python analysis, visualisation and AI features integrated into real products.
 
 <br/>
 
-## 🧭 How I Work
+
 
 <div align="center"><img src="./assets/h-process.svg" width="100%" alt="How I Work"/></div>
 
@@ -138,7 +138,7 @@ Python analysis, visualisation and AI features integrated into real products.
 
 <br/>
 
-## 📊 GitHub Analytics
+
 
 <div align="center"><img src="./assets/h-stats.svg" width="100%" alt="GitHub Analytics"/></div>
 
@@ -159,7 +159,6 @@ Python analysis, visualisation and AI features integrated into real products.
 
 <br/>
 
-## 🌐 Let's Build
 
 <div align="center"><img src="./assets/h-contact.svg" width="100%" alt="Let's Build"/></div>
 
