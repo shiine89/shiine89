@@ -85,18 +85,14 @@ Python analysis, visualisation and AI features integrated into real products.
 <div align="center"><img src="./assets/h-work.svg" width="100%" alt="Featured Work"/></div>
 
 <div align="center">
-<table>
-<tr>
-<td><img src="./assets/card-hoyihel.svg" width="100%" alt="HoyiHel"/></td>
-<td><img src="./assets/card-barberpro.svg" width="100%" alt="BarberPro"/></td>
-</tr>
-<tr>
-<td><img src="./assets/card-fhglow.svg" width="100%" alt="FH-Glow"/></td>
-<td><img src="./assets/card-mareeg.svg" width="100%" alt="Mareeg Softwares"/></td>
-</tr>
-</table>
 
-<sub>Most client work stays private during active development. Walkthroughs and case studies on request.</sub>
+<img src="./assets/card-somaliquizlet.svg" width="100%" alt="Somali Quizlet"/>
+<img src="./assets/card-ptms.svg" width="100%" alt="PTMS — Puntland Teacher Management System"/>
+<img src="./assets/card-hoyihel.svg" width="100%" alt="HoyiHel"/>
+<img src="./assets/card-fhglow.svg" width="100%" alt="FH-Glow"/>
+<img src="./assets/card-mareeg.svg" width="100%" alt="Mareeg Softwares"/>
+
+<sub>Interface mockups use illustrative sample data. Most client work stays private during active development; walkthroughs and case studies on request.</sub>
 </div>
 
 <br/>
